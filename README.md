@@ -39,15 +39,19 @@ The system is suitable for:
 
 ---
 
-##  Repository Contents
+## Repository Contents
+
+```
 anti-sleep-alarm-driver/
 │
-├── anti_sleep_alarm.ino # Arduino C++ 
-└── README.md 
+├── anti_sleep_alarm.ino   # Arduino C++ code
+└── README.md              # Project documentation
+```
+
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - Real-time eye blink monitoring  
 - Instant **audio + vibration** alert system  
@@ -57,7 +61,7 @@ anti-sleep-alarm-driver/
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - GSM alert message to family members  
 - IoT cloud-based driver monitoring  
@@ -67,7 +71,7 @@ anti-sleep-alarm-driver/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Fathima Nashiba M**  
 B.E. Biomedical Engineering  
