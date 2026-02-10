@@ -45,7 +45,7 @@ The system is suitable for:
 anti-sleep-alarm-driver/
 │
 ├── anti_sleep_alarm.ino   # Arduino C++ code
-└── README.md              # Project documentation
+└── README.md              
 ```
 
 
@@ -82,7 +82,7 @@ Embedded Systems • Medical Devices • AI in Healthcare
 
 ---
 
-## 📜 License
+##  License
 
 This project is developed for **academic learning and safety research purposes**.
 
